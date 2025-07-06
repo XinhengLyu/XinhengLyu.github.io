@@ -25,30 +25,30 @@ author:
   avatar           : "IMG_4429.png"
   name             : "Xinheng Lyu"
   pronouns         : # example: "she/her"  
-  bio              : "I am a joint PhD candidate between the University of Nottingham Ningbo China and Shenzhen University, focusing on computational pathology and multimodal large language models."
-  location         : "Shenzhen, China"
-  employer         : "University of Nottingham Ningbo China"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "Xinheng.LYU@nottingham.edu.cn" 
 
   # Academic websites
-  # academia         : # URL
-  # arxiv            : # URL - Update with the correct link to your profile
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=4Id5lnYAAAAJ"
-  # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
-  # semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # researchgate     : # URL
-  # scopus           : # URL
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
-  # bitbucket        : # Username - Update with your username on the site
-  # codepen          : # Username
-  # dribbble         : # Username
-  github           : "https://github.com/XinhengLyu/"
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
   # kaggle           : # Username  
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   # artstation       : # Username
