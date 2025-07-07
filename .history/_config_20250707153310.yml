@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "IMG_4429.png"
   name             : "Xinheng Lyu"
-  # pronouns         : # example: "she/her"
+  pronouns         : # example: "she/her"
   bio              : "Computational Pathology, Multimodal Large Language Models, and Medical Image Analysis"
   location         : "Shenzhen, China"
   employer         : "University of Nottingham(Ningbo)"
