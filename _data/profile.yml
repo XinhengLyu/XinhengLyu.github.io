@@ -4,9 +4,9 @@ navbar_name: "Welcome!"
 
 positions:
 - logo: /assets/images/badges/UNNC_logo.png  # Logo is optional
-  name: University of Nottingham Ningbo China
-- logo: /assets/images/badges/Shenzhen_University_Logo.png 
-  name: Shenzhen University
+  name: University of Nottingham
+# - logo: /assets/images/badges/Shenzhen_University_Logo.png 
+#   name: Shenzhen University
 
 
 email: "Xinheng.LYU@nottingham.edu.cn"
@@ -23,8 +23,7 @@ github: XinhengLyu
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. candidate in the joint program between <a href="https://www.nottingham.edu.cn/" target="_blank">University of Nottingham Ningbo China</a> 
-    and <a href="https://www.szu.edu.cn/" target="_blank">Shenzhen University</a>, specializing in Computer Science and Statistics. 
+    I am a Ph.D. candidate at <a href="https://www.nottingham.edu.cn/" target="_blank">University of Nottingham</a>, specializing in Computer Science and Statistics.
     My research interests lie in <strong>computer vision</strong>, <strong>computational pathology</strong>, and <strong>multi-modal large language models</strong>, 
     with a focus on developing intelligent systems for medical image analysis and cross-modal understanding.
   </p>
@@ -39,7 +38,7 @@ portrait_caption: >-
   This photo was taken in 2022 at the University of Glasgow, Scotland, UK.
 
 education:
-- name: University of Nottingham Ningbo China & Shenzhen University
+- name: University of Nottingham
   logo: /assets/images/badges/UNNC_logo.png
   position: Ph.D. in Computer Science and Statistics
   date: 2024 - present
